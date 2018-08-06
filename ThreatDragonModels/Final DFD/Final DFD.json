@@ -1,9 +1,12 @@
 {
   "summary": {
-    "title": "Final DFD"
+    "title": "Final DFD",
+    "owner": "Final DFD",
+    "description": "Final DFD"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [],
+    "reviewer": "Final DFD"
   }
 }
